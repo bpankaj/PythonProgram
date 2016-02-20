@@ -1,0 +1,2 @@
+Copy and paste is a design error.
+Testing shows the presence, not the absence of bugs.
